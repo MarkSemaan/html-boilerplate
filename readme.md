@@ -37,3 +37,9 @@ We usually indent elements inside of other elements like in the previous example
 
 ### Comments
 They are not visible to the browser. They are used to comment on our code so that other developers or our future selves can read them and understand or get context.
+
+### Lists
+#### Unordered
+Used for things like shopping lists. Usees `<ul>` tag.
+#### Ordered
+Used for things where order matters, like a top 10 or instructions for something. Uses `<ol>` tag.
