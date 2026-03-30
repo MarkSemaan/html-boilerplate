@@ -28,3 +28,6 @@ You can use multiple elements with each other, like so.
   </body>
 </html>
 ```
+
+### em Element
+Makes texts <em>italic.</em>
