@@ -6,3 +6,6 @@ Is where all the meta information goes, and some requirements for our page to re
 Charset encoding so special symbols appear.
 ### Title
 The title of the website's tab.
+
+## Body
+Where all the content of the page goes.
