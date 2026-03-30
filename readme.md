@@ -31,3 +31,9 @@ You can use multiple elements with each other, like so.
 
 ### em Element
 Makes texts <em>italic.</em>
+
+### Nesting
+We usually indent elements inside of other elements like in the previous example, this is known as nesting.
+
+### Comments
+They are not visible to the browser. They are used to comment on our code so that other developers or our future selves can read them and understand or get context.
